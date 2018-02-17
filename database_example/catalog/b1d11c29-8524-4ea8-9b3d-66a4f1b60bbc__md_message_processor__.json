@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "studentjson"
+        }
+    },
+    "id": "b1d11c29-8524-4ea8-9b3d-66a4f1b60bbc",
+    "version": "5.2.0.0"
+}
